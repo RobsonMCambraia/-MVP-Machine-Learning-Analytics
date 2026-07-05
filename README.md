@@ -2,6 +2,8 @@
 
 Projeto de Machine Learning para prever a presença ou ausência de doença cardíaca em pacientes a partir de indicadores clínicos, desenvolvido como MVP (Minimum Viable Product) de pós-graduação em Ciência de Dados.
 
+🔗 Notebook no Google Colab: [https://colab.research.google.com/drive/1eC4ZWODTK7h7MoZZhWW-p7M6I-QdXyEJ?usp=sharing]
+
 ---
 
 ## Descrição
