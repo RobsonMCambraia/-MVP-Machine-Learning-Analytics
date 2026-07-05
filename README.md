@@ -76,7 +76,7 @@ O modelo resultante deve ser entendido como uma **ferramenta de apoio ao diagnó
 
 ## Tecnologias Utilizadas
 
-- **Python** 3 [INFORMAÇÃO NECESSÁRIA — versão exata do Python utilizada no ambiente final de execução]
+- **Python** 3.12.13
 - **Jupyter Notebook** / **Google Colab**
 - **Pandas** — manipulação e análise de dados
 - **NumPy** — operações numéricas
@@ -167,6 +167,14 @@ O projeto segue o fluxo padrão de um pipeline de Machine Learning supervisionad
 - Tempos de treinamento de todos os modelos ficaram abaixo de 0,25 segundos, tornando o custo computacional irrelevante para este MVP.
 
 *Nenhuma métrica adicional foi inventada; os valores acima refletem exatamente os resultados obtidos e registrados no notebook.*
+
+![Distribuição do Tipo de Dor no Peito (cp)](img/output.png)
+
+![Boxplots das Variáveis por Classe do Target](img/output_1.png)
+
+![Heatmap de Correlação entre Variáveis](img/output_2.png)
+
+![Matriz de Confusão - Regressão Logística](img/output_3.png)
 
 ---
 
