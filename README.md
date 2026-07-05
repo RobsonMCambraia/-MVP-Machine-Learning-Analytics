@@ -88,8 +88,6 @@ O modelo resultante deve ser entendido como uma **ferramenta de apoio ao diagnó
 - **SciPy** (`scipy.stats.randint`) — definição do espaço de busca de hiperparâmetros
 - **Joblib** — serialização do modelo final treinado
 
-[INFORMAÇÃO NECESSÁRIA — versões específicas de cada biblioteca (ex.: via `pip freeze` ou `requirements.txt`), não especificadas nos arquivos analisados]
-
 ---
 
 ## Estrutura do Projeto
@@ -103,9 +101,6 @@ O modelo resultante deve ser entendido como uma **ferramenta de apoio ao diagnó
 │       └── Heart_disease_statlog.csv   # Dataset (carregado via URL raw do GitHub)
 └── modelo_final_coracao.pkl        # Artefato do modelo final serializado (gerado ao executar o notebook)
 ```
-
-> [INFORMAÇÃO NECESSÁRIA] — a estrutura acima foi inferida a partir do caminho utilizado no notebook para carregar o dataset (`.../data/raw/Heart_disease_statlog.csv`). Caso o repositório contenha outros arquivos (scripts `.py`, relatório em PDF/Word, imagens, etc.), inclua-os aqui.
-
 ---
 
 ## Metodologia
@@ -271,7 +266,6 @@ Serialização do Modelo (joblib)
 
 ## Licença
 
-[INFORMAÇÃO NECESSÁRIA — nenhuma licença foi especificada nos arquivos analisados. Recomenda-se adicionar um arquivo `LICENSE` ao repositório.]
 
 ---
 
