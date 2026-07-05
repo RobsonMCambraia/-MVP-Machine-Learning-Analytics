@@ -168,13 +168,13 @@ O projeto segue o fluxo padrão de um pipeline de Machine Learning supervisionad
 
 *Nenhuma métrica adicional foi inventada; os valores acima refletem exatamente os resultados obtidos e registrados no notebook.*
 
-![Distribuição do Tipo de Dor no Peito (cp)](img/output.png)
+![Distribuição do Tipo de Dor no Peito (cp)](data/img/output.png)
 
-![Boxplots das Variáveis por Classe do Target](img/output_1.png)
+![Boxplots das Variáveis por Classe do Target](data/img/output_1.png)
 
-![Heatmap de Correlação entre Variáveis](img/output_2.png)
+![Heatmap de Correlação entre Variáveis](data/img/output_2.png)
 
-![Matriz de Confusão - Regressão Logística](img/output_3.png)
+![Matriz de Confusão - Regressão Logística](data/img/output_3.png)
 
 ---
 
